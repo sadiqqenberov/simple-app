@@ -21,4 +21,7 @@ public class Main {
     public static void myMethodVeli(){
         System.out.println("myMethodVeli4");
     }
+    public static void myMethodEli4(){
+        System.out.println("myMethodEli4");
+    }
 }
