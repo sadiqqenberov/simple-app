@@ -27,4 +27,8 @@ public class Main {
     public static void myMethodPirveli3(){
         System.out.println("myMethodPirveli3");
     }
+    public static void myMethodPirveli4(){
+        System.out.println("myMethodPirvveli4");
+    }
+
 }
