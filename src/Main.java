@@ -16,6 +16,9 @@ public class Main {
     }
 
     public static void myMethodIsmayil3(){
-        System.out.println("myMethodIsmayil3");
+        System.out.println("myMethodIsmayil345667");
+    }
+    public static void myMethodVeli(){
+        System.out.println("myMethodVeli4");
     }
 }
