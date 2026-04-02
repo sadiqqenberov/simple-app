@@ -10,4 +10,8 @@ public class Main {
     public static void myMethod(){
         System.out.println("myMethod");
     }
+
+    public static void myMethod2(){
+        System.out.println("myMethod2");
+    }
 }
