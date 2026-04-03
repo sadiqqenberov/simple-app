@@ -30,6 +30,9 @@ public class Main {
     public static void myMethodPirveli4(){
         System.out.println("myMethodPirvveli4");
     }
+    public static void SADIQ(){
+        System.out.println("SADIQ");
+    }
 
 
 }
