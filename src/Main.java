@@ -39,6 +39,9 @@ public class Main {
     public static void Ismayil4(){
         System.out.println("Ismayil4");
     }
+    public static void SADIQ3(){
+        System.out.println("SADIQ3");
+    }
 
 
 }
