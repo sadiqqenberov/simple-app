@@ -33,6 +33,9 @@ public class Main {
     public static void SADIQ(){
         System.out.println("SADIQ");
     }
+    public static void SADIQ2(){
+        System.out.println("SADIQ2");
+    }
 
 
 }
